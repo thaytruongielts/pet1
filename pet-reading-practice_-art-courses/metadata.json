@@ -1,0 +1,5 @@
+{
+  "name": "PET Reading Practice: Art Courses",
+  "description": "An interactive web application to practice for the B1 English Reading Test. Users match descriptions of people to suitable art courses and get immediate feedback on their answers.",
+  "requestFramePermissions": []
+}
